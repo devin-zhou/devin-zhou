@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there  
+My name is Devin, I'm a second year Computer Science student.
 
 <!--
 **devin-zhou/devin-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
