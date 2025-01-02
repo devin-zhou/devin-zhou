@@ -1,5 +1,5 @@
 ### Hello there  
-My name is Devin, I'm a third year Computer Science student.
+My name is Devin, I'm a forth year Computer Science student.
 
 <!--
 
